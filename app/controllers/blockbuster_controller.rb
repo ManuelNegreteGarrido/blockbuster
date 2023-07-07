@@ -5,6 +5,7 @@ class BlockbusterController < ApplicationController
   def index
     # Tu código para la acción index
   end
+  
 
   private
 
